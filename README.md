@@ -1,2 +1,2 @@
 # Telegram Analysis
-basic python script to generate info on archived Telegram group/channel JSONs
+python script to generate some basic info on archived Telegram group/channel JSONs
